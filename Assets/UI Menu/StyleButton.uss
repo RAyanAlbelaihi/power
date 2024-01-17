@@ -1,0 +1,11 @@
+.Style {
+    background-color: rgba(0, 0, 0, 0.09);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    width: 81px;
+    justify-content: flex-start;
+    align-self: center;
+    align-items: auto;
+}
